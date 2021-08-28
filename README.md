@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Genius Jamir
-- 👀 I’m interested in Web developing & Digital Marketing
+- 👀 I’m interested in Front End Web Development & Cloud Computing
 - 🌱 I’m currently learning JS,React.JS,Machine Learning
 - 💞️ I’m looking to collaborate on fullstack web development with Node.JS,Express,MongoDB,JS,React,CSS,Bootstrap,HTML
 - 📫 Reach me by https://www.linkedin.com/in/genius-jamir-253397168/
