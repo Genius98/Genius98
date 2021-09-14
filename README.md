@@ -3,7 +3,9 @@
 - 🌱 I’m currently practicing JS,React.JS,Machine Learning's different algorithm.
 - 💞️ I’m looking to collaborate on fullstack web development with Node.JS,Express,MongoDB,JS,React,CSS,Bootstrap,HTML
 - 📫 Reach me by https://www.linkedin.com/in/genius-jamir-253397168/
-- https://media.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif
+![ml](https://user-images.githubusercontent.com/75374424/133199952-e8cf136c-f0a5-49bd-8c6d-61dc1982aee9.gif)
+![ml](https://user-images.githubusercontent.com/75374424/133200009-4c23e425-3d8c-42bf-a1cc-ba9b3511d5ab.gif)
+
 
 
 <!---
