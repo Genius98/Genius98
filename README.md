@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Genius Jamir
 - 👀 I’m interested in Front End Web Development & Competitive programming.
 - 🌱 I’m currently practicing JS,React.JS,Redux,Machine Learning's different algorithm,Data Structure & algorithms.
-- 💞️ I’m looking to collaborate on fullstack web development with Node.JS,Express,MongoDB,JS,React,Redux,CSS,Bootstrap,HTML.
 - 📫 Reach me by https://www.linkedin.com/in/genius-jamir-253397168/
