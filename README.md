@@ -1,6 +1,6 @@
-Managed end-to-end product development of a SaaS platform used by real estate agencies across Australia & New Zealand
-Conducted product discovery, gathered requirements, and translated them into clear user stories and acceptance criteria
-Performed manual QA across development, staging, and production environments to ensure high product quality
-Collaborated with cross-functional teams (engineering, design, stakeholders) in Agile sprints
-Coordinated product releases, documentation, and stakeholder communication
-Partnered with external stakeholders (e.g., Cotality, MouseFlow, REI Forms) to align product features with business needs
+-Managed end-to-end product development of a SaaS platform used by real estate agencies across Australia & New Zealand
+-Conducted product discovery, gathered requirements, and translated them into clear user stories and acceptance criteria
+-Performed manual QA across development, staging, and production environments to ensure high product quality
+-Collaborated with cross-functional teams (engineering, design, stakeholders) in Agile sprints
+-Coordinated product releases, documentation, and stakeholder communication
+-Partnered with external stakeholders (e.g., Cotality, MouseFlow, REI Forms) to align product features with business needs
