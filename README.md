@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Genius Jamir
-- 👀 I’m interested in Front End Web Development & Competitive programming.
-- 🌱 I’m currently practicing JS,React.JS,Redux,Machine Learning's different algorithm,Data Structure & algorithms.
-- 📫 Reach me by https://www.linkedin.com/in/genius-jamir-253397168/
+Managed end-to-end product development of a SaaS platform used by real estate agencies across Australia & New Zealand
+Conducted product discovery, gathered requirements, and translated them into clear user stories and acceptance criteria
+Performed manual QA across development, staging, and production environments to ensure high product quality
+Collaborated with cross-functional teams (engineering, design, stakeholders) in Agile sprints
+Coordinated product releases, documentation, and stakeholder communication
+Partnered with external stakeholders (e.g., Cotality, MouseFlow, REI Forms) to align product features with business needs
